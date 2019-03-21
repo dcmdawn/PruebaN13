@@ -144,5 +144,10 @@ namespace Ejercicio604
 
             MessageBox.Show("Las listas. " + "\n " + ListaBase + "\n " + ListaPar + "\n " + ListaImpar);
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola mundo");
+        }
     }
 }
